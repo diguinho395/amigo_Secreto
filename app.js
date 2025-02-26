@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 //função adicionar amigos
 function adicionarAmigo() {
     //recebendo valores do input amigo
@@ -23,11 +22,10 @@ document.getElementById("amigo").addEventListener("keypress", function(event) {
         adicionarAmigo();
     }
 });
-=======
+
 //função adicionar amigos
 function adicionarAmigo(){
     let inputAmigo = document.getElementById("amigo")
     let textoInput = inputAmigo.value
     console.log(textoInput)
 }
->>>>>>> a067ac70be5b8453f21e664875fd0d2784ca198b

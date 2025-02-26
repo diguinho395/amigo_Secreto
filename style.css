@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
@@ -161,7 +160,7 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
-=======
+
 :root {
     --color-primary: #4B69FD;
     --color-secondary: #FFF9EB;
@@ -324,4 +323,3 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
->>>>>>> a067ac70be5b8453f21e664875fd0d2784ca198b
