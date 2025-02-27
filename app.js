@@ -29,3 +29,7 @@ function adicionarAmigo(){
     let textoInput = inputAmigo.value
     console.log(textoInput)
 }
+
+function sortearAmigo(){
+
+}
