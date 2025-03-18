@@ -13,22 +13,23 @@ Onde no mínimo 2 pessoas participam, e o sistema fará o sorteio entre os parti
 
 # 🛠️ Abrir e rodar o projeto
 * Ao abrir o projeto, você observa o local para adicionar os nomes dos participantes.
-<img src="./demonstração/primeira" alt="imagem do site">
+<img src="./imagens/primeira.png" alt="imagem do site">
 * Você pode usar a tecla Enter do seu teclado, para adicionar pessoas.
-<img src="./demonstração/segunda">
+<img src="./imagens/segunda.png" alt="nome adicionado">
 * Depois que todos os nomes estiverem, poderar fazer o sorteio.
-<img src="./demonstração/terceira" alt="nomes adicionados">
+<img src="./imagens/terceira.png" alt="nomes adicionados">
 * É importante que todos estejam presentes.
 * Com o computador em um lugar isolado, uma pessoa de cada vez irá sortear seu amigo secreto
-<img src="./demonstração/quarta" alt="nome sorteado em verde">
+<img src="./imagens/quarta.png" alt="nome sorteado em verde">
 * Ao sortear, aguarde 2 segundos, que o nome irá sumir e assim, outro participante poderá sortear o próximo, até que todos os integrantes tenham sido sorteados.
 * Com todos participantes já sorteados, irá aparecer uma mensagem de concluído.
-<img src="./demonstração/quinta" alt="jogo finalizado">
+<img src="./imagens/quinta.png" alt="jogo finalizado">
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML``
 - ``CSS``
 - ``Java Script``
+- ``Canvas``
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/rodrigoxy?style=social)
