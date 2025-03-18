@@ -13,11 +13,17 @@ Onde no mínimo 2 pessoas participam, e o sistema fará o sorteio entre os parti
 
 # 🛠️ Abrir e rodar o projeto
 * Ao abrir o projeto, você observa o local para adicionar os nomes dos participantes.
+<img src="./demonstração/primeira" alt="imagem do site">
 * Você pode usar a tecla Enter do seu teclado, para adicionar pessoas.
+<img src="./demonstração/segunda">
 * Depois que todos os nomes estiverem, poderar fazer o sorteio.
+<img src="./demonstração/terceira" alt="nomes adicionados">
 * É importante que todos estejam presentes.
 * Com o computador em um lugar isolado, uma pessoa de cada vez irá sortear seu amigo secreto
+<img src="./demonstração/quarta" alt="nome sorteado em verde">
 * Ao sortear, aguarde 2 segundos, que o nome irá sumir e assim, outro participante poderá sortear o próximo, até que todos os integrantes tenham sido sorteados.
+* Com todos participantes já sorteados, irá aparecer uma mensagem de concluído.
+<img src="./demonstração/quinta" alt="jogo finalizado">
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
